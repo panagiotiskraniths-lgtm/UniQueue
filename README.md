@@ -1,9 +1,3 @@
-<html lang="el">
-<head>
-    <meta charset="UTF-8">
-    <title>UniQueue - Αρχική</title>
-</head>
-
 <body style="background-color:lightblue;">
 
 <h1><b>UniQueue</b></h1>

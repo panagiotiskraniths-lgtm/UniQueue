@@ -1,3 +1,4 @@
+<!DOCTYPEhtml>
 <body style="background-color:lightblue;">
 
 <h3>Ένημέρωση για ουρές στη λέσχη & τη γραμματεία</h3>

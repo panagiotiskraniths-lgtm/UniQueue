@@ -25,13 +25,6 @@
 
 <h1><b>Πώς λειτουργεί η UniQueue;</b></h1>
 
-<nav>
-    <a href="index.html">Αρχική</a> |
-    <a href="about.html">Πώς λειτουργεί</a> |
-    <a href="features.html">Λειτουργίες</a> |
-    <a href="contact.html">Σε ποιους απευθύνεται</a>
-</nav>
-
 <hr>
 <p>
 Η ιστοσελίδα UniQueue συλλέγει πληροφορίες σχετικά με τον αριθμό των ατόμων
@@ -44,15 +37,6 @@
 </p>
 
 <h1><b>Βασικές λειτουργίες της ιστοσελίδας</b></h1>
-
-<nav>
-    <a href="index.html">Αρχική</a> |
-    <a href="about.html">Πώς λειτουργεί</a> |
-    <a href="features.html">Λειτουργίες</a> |
-    <a href="contact.html">Σε ποιους απευθύνεται</a>
-</nav>
-
-<hr>
 
 <ul>
     <li>Εμφάνιση χρόνου αναμονής στη λέσχη</li>

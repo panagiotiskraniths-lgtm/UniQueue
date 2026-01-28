@@ -1,11 +1,11 @@
 <html lang="el">
-<head style="background-color: ##762124;">
+<head style="background-color: #762124;">
 
 <h3>Ένημέρωση για ουρές στη λέσχη & τη γραμματεία</h3>
 
 </head>
 
-<body style="background-color:#762124;">
+<body style="background-color: white;">
 
 <p>
 Η <b>UniQueue</b> είναι μια ιστοσελίδα που στοχεύει στη μείωση της ταλαιπωρίας των

@@ -23,6 +23,8 @@
 καθημερινότητα των φοιτητών.
 </p>
 
+<img src="images/queue.jpg" width="400">
+
 <h1><b>Πώς λειτουργεί η UniQueue;</b></h1>
 
 <p>

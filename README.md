@@ -1,11 +1,7 @@
 <html lang="el">
-<head style="background-color: #762124;">
+<header style="background-color: #762124;">
 
 <h3>Ένημέρωση για ουρές στη λέσχη & τη γραμματεία</h3>
-
-</head>
-
-<body style="background-color: white;">
 
 <p>
 Η <b>UniQueue</b> είναι μια ιστοσελίδα που στοχεύει στη μείωση της ταλαιπωρίας των
@@ -13,6 +9,10 @@
 του πανεπιστημίου.
 </p>
 
+</header>
+
+<body style="background-color: white;">
+    
 <p>
 Με την ιστοσελίδα, οι φοιτητές μπορούν να γνωρίζουν αν υπάρχει μεγάλη ουρά
 στη λέσχη ή στη γραμματεία

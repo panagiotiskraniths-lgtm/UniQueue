@@ -1,5 +1,5 @@
 <html lang="el">
-<header style="background-color: #red;">
+<header style="background-color: red;">
 
 <h3>Ένημέρωση για ουρές στη λέσχη & τη γραμματεία</h3>
 

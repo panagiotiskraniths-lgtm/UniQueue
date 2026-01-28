@@ -1,11 +1,11 @@
 <html lang="el">
-<head>
-    <meta charset="UTF-8">
-</head>
-
-<body style="background-color:lightblue;">
+<head style="background-color: ##762124;">
 
 <h3>Ένημέρωση για ουρές στη λέσχη & τη γραμματεία</h3>
+
+</head>
+
+<body style="background-color:#762124;">
 
 <p>
 Η <b>UniQueue</b> είναι μια ιστοσελίδα που στοχεύει στη μείωση της ταλαιπωρίας των
@@ -22,6 +22,8 @@
 Η ιστοσελίδα βασίζεται στην αξιοποίηση απλών δεδομένων ώστε να βελτιωθεί η
 καθημερινότητα των φοιτητών.
 </p>
+
+<img src="Line.jpg" width="400">
 
 <h1><b>Πώς λειτουργεί η UniQueue;</b></h1>
 
